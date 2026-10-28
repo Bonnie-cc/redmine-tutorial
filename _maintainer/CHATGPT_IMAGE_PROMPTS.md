@@ -59,37 +59,37 @@
 | 🔁 需重新生成 | 已有圖片，但畫面文字與目前內文不一致，或有亂碼、看似真實的個人資料 |
 | ⏳ 待生成 | 尚未生成，教學頁面目前會顯示為破圖 |
 
-2026-10 教學全面改用官方介面用詞後，所有既有圖片都需要依本檔的新版提示詞重新生成。
+2026-10-28 已依本檔提示詞重新生成全部 27 張圖，並逐張核對畫面文字。
 
 | 檔名 | 章節 | 狀態 | 備註 |
 |---|---|---|---|
-| `01-01-load-default-config.png` | 1.4 載入預設設定 | ⏳ 待生成 | |
-| `02-01-login.png` | 2.1 登入系統 | 🔁 需重新生成 | 頂端列與「遺失密碼」等文字為舊用詞 |
-| `02-02-layout.png` | 2.2 認識畫面配置 | 🔁 需重新生成 | 頂端列、頁籤、追蹤標籤與狀態為舊用詞 |
-| `02-03-my-account.png` | 2.3 個人帳戶設定 | 🔁 需重新生成 | 標註 1、2 指向的語言與通知選項文字已改 |
-| `02-04-my-page.png` | 2.4 我的頁面 | 🔁 需重新生成 | 頁面標題、區塊名稱已改；頂端列畫錯 |
-| `03-01-project-list.png` | 3.1 進入專案 | 🔁 需重新生成 | 大量亂碼；網址非 example.com |
-| `03-02-new-issue.png` | 3.2 建立議題 | 🔁 需重新生成 | 頂端列亂碼；人名不在清單中 |
-| `03-03-edit-issue.png` | 3.3 更新議題 | 🔁 需重新生成 | 大量亂碼；網址為 redmine.com |
-| `03-04-log-time.png` | 3.7 記錄工時 | 🔁 需重新生成 | 大量亂碼；網址為 redmine.com |
-| `03-05-issue-filter.png` | 3.8 篩選議題清單 | 🔁 需重新生成 | 篩選值與欄位名稱已改；頂端列亂碼 |
-| `04-01-formatting-toolbar.png` | 4.1 文字格式 | ⏳ 待生成 | |
-| `05-01-new-project.png` | 5.1 建立專案 | 🔁 需重新生成 | 表單欄位、模組、追蹤標籤為舊用詞；側邊欄有不存在的「匯入專案」 |
-| `05-02-add-members.png` | 5.2 加入專案成員 | 🔁 需重新生成 | 角色名稱已改；設定分頁有亂碼 |
-| `05-03-new-version.png` | 5.3 設定版本 | 🔁 需重新生成 | 標註 2 的版本狀態「開放中」應為「進行中」；共用選項錯誤 |
-| `05-04-bulk-edit.png` | 5.5 分派與追蹤工作 | 🔁 需重新生成 | 標註 3 的「分派給」應為「被分派者」 |
-| `05-05-gantt.png` | 5.7 甘特圖 | 🔁 需重新生成 | 頁籤與圖例為舊用詞；配色與內文不同 |
-| `05-06-roadmap.png` | 5.8 路線圖 | 🔁 需重新生成 | 頁籤與狀態為舊用詞；專案名稱與人名不符 |
-| `05-07-wiki.png` | 5.9 Wiki | 🔁 需重新生成 | 頁籤為舊用詞；編輯區為 Textile 語法 |
-| `05-08-time-report.png` | 5.10 工時報表 | 🔁 需重新生成 | 標註 1、3 的「報表」、「詳細」應為「報告」、「明細」 |
-| `07-01-settings.png` | 7.1 系統設定 | 🔁 需重新生成 | 後台選單與設定分頁為舊用詞；頂端列亂碼 |
-| `07-02-users.png` | 7.2 使用者管理 | 🔁 需重新生成 | 有類似真實的 gmail 信箱；大量亂碼 |
-| `07-03-roles.png` | 7.4 角色與權限 | 🔁 需重新生成 | 權限名稱重複、亂碼；網址為 www.redmine.com |
-| `07-04-workflow.png` | 7.7 工作流程 | 🔁 需重新生成 | 角色、追蹤標籤、狀態為舊用詞；頂端列亂碼 |
-| `07-05-custom-fields.png` | 7.8 自訂欄位 | 🔁 需重新生成 | 欄位名稱為舊用詞；網址為 redmine.com |
-| `08-01-repository-keywords.png` | 8.1 版本庫整合 | ⏳ 待生成 | |
-| `08-02-api-key.png` | 8.2 REST API | ⏳ 待生成 | |
-| `08-03-csv-import.png` | 8.3 CSV 匯入 | ⏳ 待生成 | |
+| `01-01-load-default-config.png` | 1.4 載入預設設定 | ✅ 可用 | |
+| `02-01-login.png` | 2.1 登入系統 | ✅ 可用 |  |
+| `02-02-layout.png` | 2.2 認識畫面配置 | ✅ 可用 |  |
+| `02-03-my-account.png` | 2.3 個人帳戶設定 | ✅ 可用 |  |
+| `02-04-my-page.png` | 2.4 我的頁面 | ✅ 可用 |  |
+| `03-01-project-list.png` | 3.1 進入專案 | ✅ 可用 |  |
+| `03-02-new-issue.png` | 3.2 建立議題 | ✅ 可用 |  |
+| `03-03-edit-issue.png` | 3.3 更新議題 | ✅ 可用 | 右側欄有一個虛構的「變更追蹤標籤」區塊，不影響教學 |
+| `03-04-log-time.png` | 3.7 記錄工時 | ✅ 可用 |  |
+| `03-05-issue-filter.png` | 3.8 篩選議題清單 | ✅ 可用 |  |
+| `04-01-formatting-toolbar.png` | 4.1 文字格式 | ✅ 可用 | |
+| `05-01-new-project.png` | 5.1 建立專案 | ✅ 可用 |  |
+| `05-02-add-members.png` | 5.2 加入專案成員 | ✅ 可用 |  |
+| `05-03-new-version.png` | 5.3 設定版本 | ✅ 可用 |  |
+| `05-04-bulk-edit.png` | 5.5 分派與追蹤工作 | ✅ 可用 | 「建立新議題」按鈕外多一個紅框，不影響教學 |
+| `05-05-gantt.png` | 5.7 甘特圖 | ✅ 可用 | #103 標為逾期，但完成日期其實還沒到 |
+| `05-06-roadmap.png` | 5.8 路線圖 | ✅ 可用 |  |
+| `05-07-wiki.png` | 5.9 Wiki | ✅ 可用 |  |
+| `05-08-time-report.png` | 5.10 工時報表 | ✅ 可用 | 右側欄為虛構內容，含舊詞「依使用者」 |
+| `07-01-settings.png` | 7.1 系統設定 | ✅ 可用 |  |
+| `07-02-users.png` | 7.2 使用者管理 | ✅ 可用 |  |
+| `07-03-roles.png` | 7.4 角色與權限 | ✅ 可用 |  |
+| `07-04-workflow.png` | 7.7 工作流程 | ✅ 可用 |  |
+| `07-05-custom-fields.png` | 7.8 自訂欄位 | ✅ 可用 |  |
+| `08-01-repository-keywords.png` | 8.1 版本庫整合 | ✅ 可用 | |
+| `08-02-api-key.png` | 8.2 REST API | ✅ 可用 | |
+| `08-03-csv-import.png` | 8.3 CSV 匯入 | ✅ 可用 | |
 
 > 更新圖片後，請一併更新這張表。
 
@@ -198,7 +198,7 @@ Show Redmine project "官網改版 2026" with the "設定" tab active. Below the
 ### `05-03-new-version.png`｜建立新版本
 
 ```
-Show the Redmine "建立新版本" form for project "官網改版 2026", tab "設定" active. Address bar: https://redmine.example.com/projects/website-2026/versions/new. Fields: "名稱" with "v1.0", "概述", "狀態" dropdown expanded showing options "進行中" (selected), "已鎖定", "已結束", "Wiki 網頁", "日期" with a date picker showing 2026-11-20, "共用" dropdown expanded showing "不共用" (selected), "與子專案共用", "與專案階層架構共用", "與專案樹共用", "與全部的專案共用". Buttons "建立" and "繼續建立". Annotations: red circle 1 on name, 2 on the status dropdown with its three options, 3 on date, 4 on sharing, 5 on "建立".
+Show the Redmine "建立新版本" form for project "官網改版 2026", tab "設定" active. Address bar: https://redmine.example.com/projects/website-2026/versions/new. Fields: "名稱" with "v1.0", "概述", "狀態" dropdown expanded showing exactly three options "進行中" (selected), "已鎖定", "已結束"; a separate text field "Wiki 網頁" below it (not inside the dropdown); "日期" with a date picker showing 2026-11-20, "共用" dropdown expanded showing "不共用" (selected), "與子專案共用", "與專案階層架構共用", "與專案樹共用", "與全部的專案共用". Buttons "建立" and "繼續建立". Annotations: red circle 1 on name, 2 on the status dropdown with its three options, 3 on date, 4 on sharing, 5 on "建立".
 ```
 
 ### `05-04-bulk-edit.png`｜批次編輯議題的右鍵選單
@@ -274,7 +274,7 @@ Show the Redmine "網站管理" > "設定" page with the "儲存機制清單" ta
 ### `08-02-api-key.png`｜API 存取金鑰
 
 ```
-Show the Redmine "我的帳戶" page. Address bar: https://redmine.example.com/my/account. No project tabs. The main area shows the account form (fields "名字", "姓氏", "電子郵件" with xiaoming@example.com). The right sidebar has a section "API 存取金鑰" with a link "顯示", the text "API 存取金鑰建立於 3 天 之前", and a link "回復". A small popup box next to it displays a masked key "••••••••••••••••••••••••". Annotations: red circle 1 on the "API 存取金鑰" section, 2 on "顯示", 3 on "回復", with a small red note label "請勿外流".
+Show the Redmine "我的帳戶" page. Address bar: https://redmine.example.com/my/account. No project tabs. The main area shows only one section "資訊" with exactly four fields "名字" (小明), "姓氏" (王), "電子郵件" (xiaoming@example.com), "語言" dropdown "Chinese/Traditional (繁體中文)", then a "儲存" button; no other sections. The right sidebar has a section "API 存取金鑰" with a link "顯示", the text "API 存取金鑰建立於 3 天 之前", and a link "回復". A small popup box next to it displays a masked key "••••••••••••••••••••••••". Annotations: red circle 1 on the "API 存取金鑰" section, 2 on "顯示", 3 on "回復", with a small red note label "請勿外流".
 ```
 
 ### `08-03-csv-import.png`｜CSV 匯入欄位對應
